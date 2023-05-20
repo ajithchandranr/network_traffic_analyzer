@@ -37,7 +37,7 @@ Follow the steps below to use the Network Traffic Analyzer script:
 3. Run the script:
 
    ```shell
-   python traffic_analyzer.py
+   python network_trafic_analyzer.py
    ```
 
 4. The script will display the available network interfaces. Enter the name of the network interface you want to capture traffic on.
